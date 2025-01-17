@@ -15,9 +15,6 @@
     <a href="https://colorgamebygovind.netlify.app/"><strong>View Demo »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/govindk11/ColorGame/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/govindk11/ColorGame/issues">Request Feature</a>
   </p>
 </p>
 
@@ -46,7 +43,7 @@ The Game has two levels:
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* Vanilla JavaSctipt
+*  JavaSctipt
 * HTML
 * CSS
 
@@ -67,9 +64,9 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Govind Kumar - [@Govind_Govindk](https://twitter.com/Govind_Govindk) - govindkumar3006@gmail.com
+Govind Kumar - [@taharraaa_1](https://x.com/taharraaa_1?s=21) - safwanghare44@gmail.com
 
-Project Link: [https://github.com/govindk11/ColorGame](https://github.com/govindk11/ColorGame)
+Project Link: [https://github.com](https://github.com/safwaannn/Color-Game)
 
 
 
